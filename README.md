@@ -1,9 +1,7 @@
 ### Hi 👋, I'm Nur Karim!
 <p align="center">
 <a href="https://www.youtube.com/channel/UC-OmOi4YVfwmc06g5wXGTPA"><img src="https://github.com/nurkarim/nurkarim/blob/main/laradevs.png" alt="Laradevs BD"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href="https://www.linkedin.com/in/nurkarim"><img src="https://github.com/nurkarim/nurkarim/blob/main/icon.png" alt="Nur Karim"></a>
 </p>
 
 
