@@ -16,8 +16,8 @@
 ### Connect With Me
 
 <p align="center">
-<a href="nurkarim.me"><img src="https://github.com/nurkarim/nurkarim/blob/main/web.png" alt="Laradevs BD"></a>
-<a href="https://www.linkedin.com/in/nurkarim"><img src="https://github.com/nurkarim/nurkarim/blob/main/in.png" alt="Nur Karim"></a>
-  <a href="https://twitter.com/nurkarim_rezban"><img src="https://github.com/nurkarim/nurkarim/blob/main/twit.png" alt="Nur Karim"></a>
-  <a href="https://www.youtube.com/channel/UC-OmOi4YVfwmc06g5wXGTPA"><img src="https://github.com/nurkarim/nurkarim/blob/main/youtube.png" alt="Laradevs BD"></a>
+<a href="nurkarim.me"><img width="28px" style="max-width:100%;" src="https://github.com/nurkarim/nurkarim/blob/main/web.png" alt="Laradevs BD"></a>
+<a href="https://www.linkedin.com/in/nurkarim"><img width="28px" style="max-width:100%;" src="https://github.com/nurkarim/nurkarim/blob/main/in.png" alt="Nur Karim"></a>
+  <a href="https://twitter.com/nurkarim_rezban"><img width="28px" style="max-width:100%;" src="https://github.com/nurkarim/nurkarim/blob/main/twit.png" alt="Nur Karim"></a>
+  <a href="https://www.youtube.com/channel/UC-OmOi4YVfwmc06g5wXGTPA"><img width="28px" style="max-width:100%;" src="https://github.com/nurkarim/nurkarim/blob/main/youtube.png" alt="Laradevs BD"></a>
 </p>
