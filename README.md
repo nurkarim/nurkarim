@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with others developer
 - 🗿  I have experience with Laravel, it has been more than 3 years
 - 📫 How to reach me: [Twitter](https://twitter.com/nurkarim_rezban) or [Email](mailto:nurkarim772@gmail.com)
-- ⚡ Fun fact: I love reading & podcasts
+- ⚡ Fun fact: I love reading & gaming
 
 ### Connect With Me
 
