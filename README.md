@@ -21,7 +21,7 @@
   <a href="https://twitter.com/nurkarim_rezban"><img width="28px" style="max-width:100%;" src="https://github.com/nurkarim/nurkarim/blob/main/twit.png" alt="Nur Karim"></a>
   <a href="https://www.youtube.com/channel/UC-OmOi4YVfwmc06g5wXGTPA"><img width="28px" style="max-width:100%;" src="https://github.com/nurkarim/nurkarim/blob/main/youtube.png" alt="Laradevs BD"></a>
 </p>
-### Languages and Tools
+###  Languages and Tools
 <p align="left">
 <a href="#"><img width="26px" style="max-width:100%;" src="https://github.com/nurkarim/nurkarim/blob/main/php.jpg" alt="PHP"></a>
 <a href="#"><img width="26px" style="max-width:100%;" src="https://github.com/nurkarim/nurkarim/blob/main/js.png" alt="Javascript"></a>
