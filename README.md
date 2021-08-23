@@ -32,3 +32,6 @@
   <a href="#"><img width="26px" style="max-width:100%;" src="https://github.com/nurkarim/nurkarim/blob/main/visual-studio-code.png" alt="visual-studio"></a>
   <a href="#"><img width="26px" style="max-width:100%;" src="https://github.com/nurkarim/nurkarim/blob/main/PhpStorm_Icon.svg.png" alt="PhpStorm"></a>
 </p>
+
+### More resources
+- 📫 You can get help more from [Laradevsbd.com](https://www.laradevsbd.com)
