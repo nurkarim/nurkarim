@@ -5,8 +5,8 @@
 </p>
 
 
-- 🔭 I’m currently working on HS Engineering
-- 🌱 I’m currently learning Reactjs
+- 🔭 I’m currently working on HS Engineering Ltd
+- 🌱 I’m currently learning Reactjs & Flutter
 - 👯 I’m looking to collaborate on with other content creators
 - 🤔 I’m looking for help with others developer
 - 🗿  I have experience with Laravel, it has been more than 3 years
