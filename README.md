@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning Reactjs & Flutter
 - 👯 I’m looking to collaborate on with other content creators
 - 🤔 I’m looking for help with others developer
-- 🗿  I have experience with Laravel, it has been more than 3 years
-- 📫 How to reach me: [Twitter](https://twitter.com/nurkarim_rezban) or [Email](mailto:nurkarim772@gmail.com)
+- 🗿  I have experience with Laravel, it has been more than 4+ years
+- 📫 How to reach me: [Twitter](https://twitter.com/nurkarim_rezban) or [Email](mailto:nurkarim772@gmail.com)& [nurkarim.me](http://nurkarim.me)
 - ⚡ Fun fact: I love reading & gaming
 
 ### Connect With Me
