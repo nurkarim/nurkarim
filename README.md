@@ -35,3 +35,5 @@
 
 ### More resources
 - 📫 You can get help more from [Laradevsbd.com](https://www.laradevsbd.com)
+###  GitHub Stats:
+  ![nurkarim's Stats](https://github-readme-stats.vercel.app/api?username=nurkarim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
