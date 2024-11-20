@@ -37,3 +37,5 @@
 - 📫 You can get help more from [Laradevsbd.com](https://www.laradevsbd.com)
 ###  GitHub Stats:
   ![nurkarim's Stats](https://github-readme-stats.vercel.app/api?username=nurkarim&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+  ![nurkarim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nurkarim&theme=highcontrast&hide_border=true)
+  ![nurkarim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nurkarim&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
