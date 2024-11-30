@@ -26,13 +26,27 @@ I am a passionate full-stack developer with expertise in building scalable and e
   
 ### [Project 2: Realtime Monitoring & Access Lock(RMS)](#)
 - **Technologies:** Flutter, Laravel, PostgreSQL, Bootstrap
-- 
+  
 ### [Project 3: E-Commerce Website](#)
 - **Technologies:** PHP, Laravel, Bootstrap, MySQL
-- 
+  
 ### [Project 4: Face Recognition App](#)
 - **Technologies:** Flutter, TensorFlow Lite, Google ML Kit, Laravel
+  
+### Additional Projects:
 
+- **Education System**: Comprehensive platform for managing educational institutions.
+- **ERP**: Enterprise resource planning solutions for businesses.
+- **Supply Chain Management**: Tools for streamlining logistics and operations.
+- **Inventory Management**: Real-time inventory tracking and reporting.
+- **POS (Point of Sale)**: Complete point-of-sale systems for retail businesses.
+- **MLM (Multi-Level Marketing)**: Solutions for managing MLM networks.
+- **Man Power Management**: Employee management and resource allocation systems.
+- **Key Requisition**: Streamlined request and approval workflows.
+- **Course Booking**: Platform for scheduling and booking courses.
+- **Social Platform - ConnectsApp.com**: A social networking platform.
+- **Accounting Software**: Tools for financial management and reporting.
+  
 ## 📫 Let's Connect
 
 <p align="left">
