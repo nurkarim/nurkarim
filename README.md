@@ -21,11 +21,11 @@ I am a passionate full-stack developer with expertise in building scalable and e
 
 ## 🌟 Featured Projects
 
-### [Project 1: Multi-Platform Attendance System](#)
+### [Project 1: Biometric Attendance System](#)
 - **Technologies:** Flutter, Laravel, MySQL, Bootstrap
   
 ### [Project 2: Realtime Monitoring & Access Lock(RMS)](#)
-- **Technologies:** Flutter, Laravel, PostgreSQL, Bootstrap
+- **Technologies:** Flutter, Laravel, PostgreSQL, Bootstrap,C++
   
 ### [Project 3: E-Commerce Website](#)
 - **Technologies:** PHP, Laravel, Bootstrap, MySQL
