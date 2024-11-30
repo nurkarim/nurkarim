@@ -19,6 +19,23 @@ I am a passionate full-stack developer with expertise in building scalable and e
 - 📫 How to reach me: [Twitter](https://twitter.com/nurkarim_rezban) or [Email](mailto:nurkarim772@gmail.com)& [Website](http://nurkarim.me)
 - ⚡ Fun fact: I love reading & Gaming
 
+## 🔧 Technologies & Tools
+
+- **Languages:** PHP, C#.NET, JavaScript, Dart
+- **Frameworks:** Laravel, Flutter, React, Next.js, .NET
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Front-End:** HTML, CSS, Bootstrap, Figma
+- **Others:** REST APIs, Git, Version Control
+  
+## 📈 Data Analytics Tools for Laravel
+
+- **Laravel Telescope:** Debugging and monitoring Laravel applications.
+- **Laravel Audit:** Laravel Auditing allows you to record changes to an Eloquent model's set of data by simply adding its trait to your model.
+- **Spatie Laravel Analytics:** Integrates Google Analytics with Laravel.
+- **Chart.js with Laravel:** Visualize data directly in your application.
+- **ECharts with Laravel API:** Create interactive charts and graphs.
+- **Laravel Debugbar:** Debug and analyze queries and application performance.
+  
 ## 🌟 Featured Projects
 
 #### [Project 1: Biometric Attendance System](#)
@@ -45,7 +62,7 @@ I am a passionate full-stack developer with expertise in building scalable and e
 - **Quiz & Course Booking**: Platform for scheduling and booking courses.
 - **Social Platform - ConnectsApp.com**: A social networking platform.
 - **Accounting Software**: Tools for financial management and reporting.
-  
+- **ZKTeco SDK Integration**: A package developed for integrating ZKTeco biometric devices seamlessly with Laravel applications.
 ## 📫 Let's Connect
 
 <p align="left">
