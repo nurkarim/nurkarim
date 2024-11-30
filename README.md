@@ -3,7 +3,7 @@
 🚀 **Full-Stack Developer** | PHP | C#.NET | JavaScript | Flutter | Laravel | MySQL | PostgreSQL | MongoDB | HTML | CSS | Bootstrap | React JS | Next JS 
 
 ## About Me
-I am a passionate full-stack developer with expertise in building scalable and efficient web and mobile applications. With years of experience across various technologies, I thrive on solving complex problems and delivering exceptional user experiences.
+I am a passionate **Full-Stack Developer** with expertise in building scalable, efficient, and user-centric **web and mobile applications**. With a proven track record in **ERP systems**, **e-commerce platforms**, **educational software**, and **supply chain management tools**, I have used in my projects **Laravel**, **React**, and **Next.js**, I thrive on solving complex problems and delivering exceptional user experiences.
 
 <p align="left">
 <a href="https://www.youtube.com/channel/UC-OmOi4YVfwmc06g5wXGTPA"><img src="https://github.com/nurkarim/nurkarim/blob/main/laradevs.png" alt="Laradevs BD"></a>
