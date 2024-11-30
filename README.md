@@ -21,15 +21,15 @@ I am a passionate full-stack developer with expertise in building scalable and e
 
 ## 🌟 Featured Projects
 
-### [Project 1: Biometric Attendance System](#)
+#### [Project 1: Biometric Attendance System](#)
 - **Technologies:** Flutter, Laravel, MySQL, Bootstrap
-### [Project 2: Realtime Monitoring & Access Lock(RMS)](#)
+#### [Project 2: Realtime Monitoring & Access Lock(RMS)](#)
 - **Technologies:** Flutter, Laravel, PostgreSQL, Bootstrap, C++
-### [Project 3: E-Commerce Website](#)
+#### [Project 3: E-Commerce Website](#)
 - **Technologies:** PHP, Laravel, Bootstrap, MySQL
-### [Project 4: GPS & Face Recognition Attendance](#)
+#### [Project 4: GPS & Face Recognition Attendance](#)
 - **Technologies:** Flutter, TensorFlow Lite, Google ML Kit, Laravel, MYSQL, ReactJs
-### [Project 5: Quiz & Course Booking](#)
+#### [Project 5: Quiz & Course Booking](#)
 - **Technologies:** PHP, Laravel, NextJs, MYSQL, Bootstrap
   
 ### Additional Projects:
