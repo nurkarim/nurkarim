@@ -1,6 +1,6 @@
 # Hi, I'm Nur Karim 👋
 
-🚀 **Full-Stack Developer** | PHP | C#.NET | JavaScript | Flutter | Laravel | MySQL | PostgreSQL | MongoDB | HTML | CSS | Bootstrap
+🚀 **Full-Stack Developer** | PHP | C#.NET | JavaScript | Flutter | Laravel | MySQL | PostgreSQL | MongoDB | HTML | CSS | Bootstrap | React JS | Next JS 
 
 ## About Me
 I am a passionate full-stack developer with expertise in building scalable and efficient web and mobile applications. With years of experience across various technologies, I thrive on solving complex problems and delivering exceptional user experiences.
@@ -23,15 +23,14 @@ I am a passionate full-stack developer with expertise in building scalable and e
 
 ### [Project 1: Biometric Attendance System](#)
 - **Technologies:** Flutter, Laravel, MySQL, Bootstrap
-  
 ### [Project 2: Realtime Monitoring & Access Lock(RMS)](#)
-- **Technologies:** Flutter, Laravel, PostgreSQL, Bootstrap,C++
-  
+- **Technologies:** Flutter, Laravel, PostgreSQL, Bootstrap, C++
 ### [Project 3: E-Commerce Website](#)
 - **Technologies:** PHP, Laravel, Bootstrap, MySQL
-  
-### [Project 4: Face Recognition App](#)
-- **Technologies:** Flutter, TensorFlow Lite, Google ML Kit, Laravel
+### [Project 4: GPS & Face Recognition Attendance](#)
+- **Technologies:** Flutter, TensorFlow Lite, Google ML Kit, Laravel, MYSQL, ReactJs
+### [Project 5: Quiz & Course Booking](#)
+- **Technologies:** PHP, Laravel, NextJs, MYSQL, Bootstrap
   
 ### Additional Projects:
 
@@ -43,7 +42,7 @@ I am a passionate full-stack developer with expertise in building scalable and e
 - **MLM (Multi-Level Marketing)**: Solutions for managing MLM networks.
 - **Man Power Management**: Employee management and resource allocation systems.
 - **Key Requisition**: Streamlined request and approval workflows.
-- **Course Booking**: Platform for scheduling and booking courses.
+- **Quiz & Course Booking**: Platform for scheduling and booking courses.
 - **Social Platform - ConnectsApp.com**: A social networking platform.
 - **Accounting Software**: Tools for financial management and reporting.
   
